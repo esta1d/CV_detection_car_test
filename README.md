@@ -32,5 +32,6 @@ CV_detection_car_test
 
 * ***[Код для запуска детекции](detection.py)***
 * ***[Ноутбук с предобработкой картинок](prediction.ipynb)***
+* ***[Выходное видео (результат)](https://rutube.ru/video/private/96861705e49012180276081d4653b0fb/?p=B67JHRbf04dCjkrF2xXqcA)***
 
 ##
